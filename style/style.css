@@ -1,0 +1,14 @@
+/* IN2Moodle Plugin */
+.i2m_maincontent {
+    width: 30%;
+    margin-left: 0px;
+    text-align: left;
+    border: 2px black solid;
+}
+.i2m_formtitle, .i2m_label {
+    font-weight: bold !important;
+    color: black;   
+}
+.i2m_label {
+    text-align: right;
+}
